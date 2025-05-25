@@ -4,7 +4,7 @@ Ce dépot sert à mettre en avant mes compétences dans le cadre de ma candidatu
 
 ## Contexte
 
-**Mindcraft** est un projet open source qui est activement en développement. Ce projet, accessible dans le dépot [ici](https://github.com/kolbytn/mindcraft) est un serveur nodejs qui connecte et contrôle un bot autonome sur un serveur Minecraft. La spécificité de ce projet est que le bot communique avec un LLM pour communiquer avec les joueurs, permettant ainsi de répondre aux instructions des joueurs présent sur le serveur et de choisir les actions à réaliser en conséquences.
+**Mindcraft** est un projet open source qui est activement en développement. Ce projet, accessible dans le dépot [ici](https://github.com/kolbytn/mindcraft) est un serveur nodejs qui connecte et contrôle un bot autonome sur un serveur Minecraft. La spécificité de ce projet est que le bot communique avec un LLM pour communiquer avec les joueurs présent sur le jeu, permettant ainsi de répondre aux instructions des joueurs et de choisir les actions à réaliser en conséquences.
 
 Le problème que j'ai rencontré est que l'installation et la configuration de ce serveur n'est pas encore assez simple pour qu'un joueur lambda de Minecraft puisse profiter de ce projet. M'est alors venu l'idée de développer un service permettant de déployer un serveur **Mindcraft** pour chaque utilisateur en quelques cliques.
 
