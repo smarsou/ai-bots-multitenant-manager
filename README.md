@@ -35,7 +35,7 @@ Tout d'abord, j'utilise 3 différents serveurs Linux pour cette architecture.
 
 Le serveur Mindcraft est déployé à côté d'une API Custom que j'ai implémentée en Python avec FastAPI.
 
-Cette API Custom permet un contrôle à distance contrôlé et sécurisé du serveur Mindcraft :
+Cette API Custom permet un contrôle à distance du serveur Mindcraft :
 - Démarrer, arrêter le serveur Mindcraft
 - Mettre à jour les fichiers de configurations
 - Envoyer des messages aux bots directement depuis le serveur
@@ -52,7 +52,7 @@ Voici de captures d'écran illustrant le dashboard en cours de développement :
 Figure 1 - Page principale du dashboard, présentant les différents serveurs Minecraft et serveur IA Mindcraft
 
 <img src=".github/static/dashboard2.png" width="700px"/><br/>
-Figure 2 - Page de détail d'un serveur Mindcraft, contenant plusieurs onglets pour la gestion du serveurs Mindcraft.
+Figure 2 - Page de détail d'un serveur Mindcraft, contenant plusieurs onglets pour la gestion du serveur Mindcraft.
 
 ### 4. Le Proxy LLM
 
